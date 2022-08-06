@@ -162,6 +162,7 @@ header h1:nth-child(2){
     max-width: 100%;
     justify-content: space-around;
     padding: 2rem;
+    flex-wrap: wrap;
 }
 
 .contact-card{
