@@ -163,6 +163,7 @@ header h1:nth-child(2){
     justify-content: space-around;
     padding: 2rem;
     flex-wrap: wrap;
+    gap: 2rem;
 }
 
 .contact-card{
